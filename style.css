@@ -1,0 +1,16 @@
+body{
+    background-color:rgb(235, 235, 236);
+}
+
+
+div{
+    background-color:rgb(118, 165, 42);
+}
+
+.text-green{
+    background-color:rgb(118, 165, 42) ;
+}
+
+.text-white{
+    background-color:white;
+}
